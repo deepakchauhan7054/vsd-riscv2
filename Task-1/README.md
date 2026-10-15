@@ -53,8 +53,6 @@ A new IP would integrate as a peripheral in the SoC RTL. It would connect to the
 
 ## 7. Evidence Screenshots
 
-Place the following screenshots in the `Evidence/` directory:
-
 1. `Task1_RISCV_Reference_Run.png` — successful RISC-V reference program execution.
 2. `task1_vsdfpga_firmware_build.png` — firmware build status.
 3. `task1_soc_uart_simulation_500ms.png` — SoC UART simulation log.
