@@ -1,0 +1,5 @@
+VCD info: dumpfile gpio_soc.vcd opened for output.
+GPIO WRITE = 12345678
+GPIO READ  = 12345678
+GPIO TEST PASSED
+DEBUG: clk_int=1 clk=1 resetn=1 PC=000000a4 GPIO=12345678
